@@ -1,8 +1,8 @@
+### 模型和知识库下载链接（包括两次大作业）
+jbox：https://jbox.sjtu.edu.cn/l/81DMsf
+
 ### 项目内容
 CS3602课程学习大作业一，对Qwen0.5B进行有监督微调，使用opencompass评测。
-
-### 模型下载链接
-jbox：
 
 ### 部署步骤
 1. 创建conda环境
